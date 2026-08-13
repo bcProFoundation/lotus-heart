@@ -1,6 +1,6 @@
 # Lotus Heart
 
-Static website for [Lotus Heart Solutions](https://bcprofoundation.github.io/lotus-heart/), cloned from the Carrd original at [lotusheart.carrd.co](https://lotusheart.carrd.co/).
+Static website for [Lotus Heart Solutions](https://bcprofoundation.github.io/lotus-heart/).
 
 ## Preview locally
 
